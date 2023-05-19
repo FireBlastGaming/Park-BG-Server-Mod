@@ -1,0 +1,31 @@
+{
+  "item.pbgaddon.leaguecoin": "League Coin",
+  "item.pbgaddon.mossbadge": "Moss Badge",
+  "item.pbgaddon.leafbadge": "Leaf Badge",
+  "item.pbgaddon.shadebadge": "Shade Badge",
+  "item.pbgaddon.flyingbadge": "Flying Badge",
+  "item.pbgaddon.neutralbadge": "Neutral Badge",
+  "item.pbgaddon.snowballbadge": "Snowball Badge",
+  "item.pbgaddon.fablebadge": "Fable Badge",
+  "item.pbgaddon.mantlebadge": "Mantle Badge",
+  "item.pbgaddon.terrabadge": "Terra Badge",
+  "item.pbgaddon.brawlerbadge": "Brawler Badge",
+  "item.pbgaddon.darknessbadge": "Darkness Badge",
+  "item.pbgaddon.spybadge": "Spy Badge",
+  "item.pbgaddon.frightbadge": "Fright Badge",
+  "item.pbgaddon.dungeonbadge": "Dungeon Badge",
+  "item.pbgaddon.firebadge": "Fire Badge",
+  "item.pbgaddon.waterbadge": "Water Badge",
+  "item.pbgaddon.electricbadge": "Electric Badge",
+  "item.pbgaddon.reservoirbadge": "Reservoir Badge",
+  "item.pbgaddon.chemicalbadge": "Chemical Badge",
+  "item.pbgaddon.thoraxbadge": "Thorax Badge",
+  "item.pbgaddon.goldbadge": "Gold Badge",
+  "item.pbgaddon.elitekey": "Elite Four Key",
+  "item.pbgaddon.placeholder": "Placeholder Badge",
+
+
+  "item.pbgaddon.blankstone": "Blank Stone",
+
+  "itemGroup.PBG": "PBG"
+}
